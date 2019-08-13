@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StatePattern</string>
+    <string name="forget_pwd">忘记密码</string>
+    <string name="user_agreement">用户协议</string>
+    <string name="roleA_login">A角色登录</string>
+    <string name="to_register">去注册</string>
+    <string name="roleB_login">B角色登录</string>
+    <string name="roleC_login">C角色登录</string>
+</resources>
